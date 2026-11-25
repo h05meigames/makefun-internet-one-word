@@ -1,0 +1,1 @@
+{"description":"The Internet in One Word — describes the whole internet in a single word.","license":"MIT","main":"main.ts","name":"makefun-internet-one-word","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
